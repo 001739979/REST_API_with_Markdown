@@ -4,7 +4,7 @@
 
 During current use case, the final goals are present the One-Ip Table of devices in current domain and path result between two random devices in current domain. There are totally 10 REST APIs we going to concerned to be a part of this use case, as shown in following:
 
->1. import all useful modules and create global variables
+1. import all useful modules and create global variables
 2. call login API
 3. call get_all_accessible_tenants API
 4. call get_all_accessible_domains API
